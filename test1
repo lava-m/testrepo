@@ -2,6 +2,12 @@ this is test1
 this is test2
 this is test3
 this is test4
+<<<<<<< HEAD
 this is test514
 this is test634
 2345drlmdmbrhh
+=======
+this is test5
+this is test6
+2345drlmdmbrhh
+>>>>>>> 32c9e1a5a2a6129d6ad821d2feda19617844c87b
